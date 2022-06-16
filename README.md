@@ -8,8 +8,8 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally with taki
 
 **Conclusion**
 - All features in the dataset are used to analysing (no redundant features)
-- Individual's Old peak is the highest factor that cause heart disease and affects heart failure
-- Logistic regression is the best model due to higher recall score than Random forest
+- Individual ST_Slope become the highest factor that can cause heart failure.
+- Best algorithm to use is logistic regression
 
 **Recommendation**
 Adding more features about  lifestyle. Example:
